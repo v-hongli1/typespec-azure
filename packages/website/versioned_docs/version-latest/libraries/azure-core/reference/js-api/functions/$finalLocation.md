@@ -16,7 +16,7 @@ $finalLocation(
 | :------ | :------ |
 | `context` | `DecoratorContext` |
 | `entity` | `ModelProperty` |
-| `finalResult`? | `Model` \| `IntrinsicType` |
+| `finalResult`? | `IntrinsicType` \| `Model` |
 
 ## Returns
 

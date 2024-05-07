@@ -12,7 +12,7 @@ getSdkBuiltInType(context, type): SdkBuiltInType
 | Parameter | Type |
 | :------ | :------ |
 | `context` | `TCGCContext` |
-| `type` |  \| `Scalar` \| `StringLiteral` \| `NumericLiteral` \| `BooleanLiteral` \| `IntrinsicType` |
+| `type` |  \| `Scalar` \| `BooleanLiteral` \| `IntrinsicType` \| `NumericLiteral` \| `StringLiteral` |
 
 ## Returns
 

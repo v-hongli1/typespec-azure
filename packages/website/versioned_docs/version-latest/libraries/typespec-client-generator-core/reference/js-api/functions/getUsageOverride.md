@@ -12,7 +12,7 @@ getUsageOverride(context, entity): UsageFlags | undefined
 | Parameter | Type |
 | :------ | :------ |
 | `context` | `TCGCContext` |
-| `entity` | `Model` \| `Enum` \| `Union` |
+| `entity` | `Enum` \| `Model` \| `Union` |
 
 ## Returns
 

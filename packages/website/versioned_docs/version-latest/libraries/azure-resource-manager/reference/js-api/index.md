@@ -24,6 +24,7 @@ title: "[P] JS API"
 
 ## Variables
 
+- [$flags](variables/$flags.md)
 - [$lib](variables/$lib.md)
 - [$linter](variables/$linter.md)
 - [namespace](variables/namespace.md)

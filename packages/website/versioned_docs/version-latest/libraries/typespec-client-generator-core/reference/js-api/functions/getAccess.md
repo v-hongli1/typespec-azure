@@ -12,7 +12,7 @@ getAccess(context, entity): AccessFlags | undefined
 | Parameter | Type |
 | :------ | :------ |
 | `context` | `TCGCContext` |
-| `entity` | `Model` \| `Enum` \| `Operation` \| `Union` |
+| `entity` | `Enum` \| `Model` \| `Operation` \| `Union` |
 
 ## Returns
 

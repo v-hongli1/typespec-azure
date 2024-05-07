@@ -12,7 +12,7 @@ getUsage(context, entity): UsageFlags
 | Parameter | Type |
 | :------ | :------ |
 | `context` | `TCGCContext` |
-| `entity` | `Model` \| `Enum` |
+| `entity` | `Enum` \| `Model` |
 
 ## Returns
 

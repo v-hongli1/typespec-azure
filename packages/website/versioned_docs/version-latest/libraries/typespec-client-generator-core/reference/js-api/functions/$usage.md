@@ -16,7 +16,7 @@ $usage(
 | Parameter | Type |
 | :------ | :------ |
 | `context` | `DecoratorContext` |
-| `entity` | `Model` \| `Enum` \| `Union` |
+| `entity` | `Enum` \| `Model` \| `Union` |
 | `value` | `EnumMember` \| `Union` |
 | `scope`? | `string` |
 

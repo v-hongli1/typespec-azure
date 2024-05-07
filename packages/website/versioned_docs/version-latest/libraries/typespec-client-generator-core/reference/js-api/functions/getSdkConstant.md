@@ -12,7 +12,7 @@ getSdkConstant(context, type): SdkConstantType
 | Parameter | Type |
 | :------ | :------ |
 | `context` | `TCGCContext` |
-| `type` | `StringLiteral` \| `NumericLiteral` \| `BooleanLiteral` |
+| `type` | `BooleanLiteral` \| `NumericLiteral` \| `StringLiteral` |
 
 ## Returns
 
